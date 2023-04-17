@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-app",
-    "slug": "react-native-app",
+    "slug": "first-react-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9ab5a31d-0585-4c49-a0a2-f8003035a23f"
+      }
+    },
+    "owner": "mobogod"
   }
 }
